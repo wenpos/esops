@@ -7,6 +7,7 @@ scratch
 docs/_build
 *.egg
 .eggs
+esops.egg-info
 .coverage
 .idea
 coverage.xml
@@ -14,4 +15,5 @@ nosetests.xml
 index.html
 docs/asciidoc/html_docs
 wheelhouse
-MANIFEST
+msi_guid.txt
+
